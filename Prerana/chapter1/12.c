@@ -1,3 +1,4 @@
+// One word per line
 #include <stdio.h>
 
 int main(void)
