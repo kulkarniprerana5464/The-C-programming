@@ -1,7 +1,6 @@
 #include <stdio.h>
 #define MAX 1000
 
-
 void squeeze(char s1[], char s2[]);
 
 int main(void)
